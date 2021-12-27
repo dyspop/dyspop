@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Dan Black's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyspop)]
+[![Dan Black's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyspop)()]

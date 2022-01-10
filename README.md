@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Yield App
+🔭 I’m working on Yield App
 
-🌱 I’m currently learning React, Svelte, tmux
+🌱 I’m learning React, Svelte, tmux
 
 👯 I’m looking to collaborate on image manipulation experiments
 

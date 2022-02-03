@@ -10,7 +10,9 @@
 
 📫 How to reach me: email me
 
-🎸 Fun fact: I make music too 
+🎸 I make music
+
+🖼 I make art
 
 <!--
 **dyspop/dyspop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m working on Yield App
+🔭 I’m working on BriskPick (ask me about it!)
 
-🌱 I’m learning React, Svelte, tmux
+🌱 I’m learning js: React, Next, Typescript, tRPC, Prisma | python: Pillow, Turtle
 
 👯 I’m looking to collaborate on image manipulation experiments
 

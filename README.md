@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m working on BriskPick (ask me about it!)
+🔭 I’m working on two things. One that helps you make better life decisions, the other is coming soon ;)~
 
-🌱 I’m learning js: React, Next, Typescript, tRPC, Prisma | python: Pillow, Turtle
+🌱 I’m learning js: React, Next, Typescript, tRPC, Prisma
 
 👯 I’m looking to collaborate on image manipulation experiments
 

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m working on two things. One that helps you make better life decisions, the other is coming soon ;)~
+🔭 I’m working on building and deploying beatiful, usable applications
 
-🌱 I’m learning js: React, Next, Typescript, tRPC, Prisma
+🌱 I’m learning Django, Docker
 
 👯 I’m looking to collaborate on image manipulation experiments
 

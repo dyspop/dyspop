@@ -2,7 +2,7 @@
 
 🔭 I’m working on building and deploying beatiful, usable applications
 
-🌱 I’m learning Docker, 
+🌱 I’m learning Docker
 
 👯 I’m looking to collaborate on image manipulation experiments
 

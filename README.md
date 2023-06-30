@@ -2,11 +2,11 @@
 
 🔭 I’m working on building and deploying beatiful, usable applications
 
-🌱 I’m learning Django, Docker
+🌱 I’m learning Docker, 
 
 👯 I’m looking to collaborate on image manipulation experiments
 
-💬 Ask me about Python
+💬 Ask me about Python, React, or CSS
 
 📫 How to reach me: email me
 

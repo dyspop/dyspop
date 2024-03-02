@@ -2,7 +2,7 @@
 
 🔭 I’m working on building and deploying beatiful, usable applications
 
-🌱 I’m learning Django 5 and Next with App Router
+🌱 I’m learning various JavaScript frameworks such as Solid, Remix and Next
 
 👯 I’m looking to collaborate on image manipulation experiments
 

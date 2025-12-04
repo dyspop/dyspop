@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m working on building and deploying beatiful, usable applications
+🔭 I’m working on product notifications systems at SoundCloud
 
-🌱 I’m learning various JavaScript frameworks such as Solid, Remix and Next
+🌱 I’m learning audio recording and studio production techniques
 
 👯 I’m looking to collaborate on image manipulation experiments
 
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
 
 ![Dan Black's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyspop&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&icon_color=f2d9dd&text_color=f0dbd9&bg_color=33,000000,990000,bb3311,ff6622&hide_border=true)
 
 
--->
